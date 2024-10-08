@@ -1,5 +1,5 @@
 ![Tower Hamlets GP Care Group Logo](logo.png)
-# Tower Hamlets GP Care Group CIC - GitHub Organisation
+# Tower Hamlets GP Care Group CIC - AI Innovation Lab
 
 Welcome to the GitHub Organisation page for the _AI Innovation Lab_ at **Tower Hamlets GP Care Group CIC**. We are committed to delivering high-quality, sustainable healthcare services to the local community, and our GitHub repositories help facilitate innovation in technology and healthcare delivery.
 
