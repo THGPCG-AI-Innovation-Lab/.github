@@ -1,3 +1,10 @@
+---
+name: Feature Request
+about: Request a feature
+title: "[REQ] - "
+labels: enhancement, question
+assignees: ''
+---
 ## Feature Description
 A clear and concise description of the feature you’d like to request.
 
