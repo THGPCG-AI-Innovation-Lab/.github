@@ -1,3 +1,10 @@
+---
+name: User Story
+about: User story template
+title: "[STORY] - "
+labels: story
+assignees: ''
+---
 ## User Story
 As a [role], I want [goal] so that [reason].
 
