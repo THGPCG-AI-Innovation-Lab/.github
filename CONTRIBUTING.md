@@ -64,16 +64,18 @@ All contributions should be **atomic**:
 
 * A commit should address only one issue or change. Avoid combining multiple unrelated changes into a single commit.
 * Each commit should be small enough to describe a single change but large enough to solve the problem completely.
+
 Example commit message:
 ```
 fix: corrected typo in issue template
 ```
 ## General Guidelines
-Adhere to the coding standards defined in the repository. Use meaningful commit messages and comments where necessary.
-Test your changes to ensure they work as expected before submitting the pull request.
-Follow the general workflow:
+
+1. Adhere to the coding standards defined in the repository. Use meaningful commit messages and comments where necessary.
+2. Test your changes to ensure they work as expected before submitting the pull request.
+3. Follow the general workflow:
 Log the issue → Create a branch → Solve the issue → Submit a pull request → Code review (if applicable) → Merge.
-Maintain good documentation for any changes that affect workflows or processes within the .github repository.
-Keep everything within scope: Ensure that your changes do not affect other unrelated files or processes.
+4. Maintain good documentation for any changes that affect workflows or processes within the repository.
+5. Keep everything within scope: Ensure that your changes do not affect other unrelated files or processes.
 ---
 Thank you for contributing! Your effort helps us maintain consistency and best practices across the organisation.
