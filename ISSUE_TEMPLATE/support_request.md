@@ -1,3 +1,10 @@
+---
+name: Support Request
+about: Request support with an issue
+title: "[SUP] - "
+labels: support
+assignees: ''
+---
 ## Question
 What is your question or what do you need help with?
 
