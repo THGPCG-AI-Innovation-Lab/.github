@@ -15,10 +15,10 @@ Steps to reproduce the behaviour:
 3. Scroll down to '...'
 4. See error
 
-## Expected Behavior
+## Expected Behaviour
 A clear description of what you expected to happen.
 
-## Actual Behavior
+## Actual Behaviour
 Describe what actually happens when following the steps.
 
 ## Screenshots
